@@ -1,0 +1,5 @@
+C:\Personal\Desarrollo\servicio\servicio_speech_analytics_ext\servicio_speech_analytics_ext\bin\Debug\servicio_speech_analytics.exe
+C:\Personal\Desarrollo\servicio\servicio_speech_analytics_ext\servicio_speech_analytics_ext\bin\Debug\servicio_speech_analytics.pdb
+C:\Personal\Desarrollo\servicio\servicio_speech_analytics_ext\servicio_speech_analytics_ext\bin\Debug\ECCLib.dll
+C:\Personal\Desarrollo\servicio\servicio_speech_analytics_ext\servicio_speech_analytics_ext\obj\Debug\servicio_speech_analytics.exe
+C:\Personal\Desarrollo\servicio\servicio_speech_analytics_ext\servicio_speech_analytics_ext\obj\Debug\servicio_speech_analytics.pdb
